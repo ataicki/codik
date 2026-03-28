@@ -1,0 +1,7 @@
+[submodule "codik-client"]
+	path = codik-client
+	url = https://github.com/ataicki/codik-client.git
+[submodule "codik-api"]
+	path = codik-api
+	url = https://github.com/ataicki/codik-api.git
+	branch = dev
